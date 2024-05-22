@@ -1,4 +1,25 @@
 # 👋 Hi! I'm Shuai Du.
+A full-stack engineer who is passionate about AI (Machine Learning) and DevOps.
+
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img
+      src="https://miro.medium.com/max/3150/1*iDQvKoz7gGHc6YXqvqWWZQ.png"
+      alt="tensorflow"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>  
+</p>
+
 
 <!--
 **Dushuai12138/Dushuai12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
