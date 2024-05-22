@@ -18,7 +18,7 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
       height="80"
     />
   </a>
-    <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
