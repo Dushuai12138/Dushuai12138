@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Shuai Du.
-A full-stack engineer who is passionate about AI (Machine Learning) and DevOps.
+A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing).
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -9,7 +9,15 @@ A full-stack engineer who is passionate about AI (Machine Learning) and DevOps.
       width="40"
       height="40"
     />
-  </a>  
+  </a>
+  <a href="https://code.earthengine.google.com/" target="_blank">
+    <img
+      src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/earth-engine-icon.png"
+      alt="GEE"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 
