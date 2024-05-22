@@ -29,7 +29,7 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
   <a href="https://jupyter.org/" target="_blank">
     <img
       src="	https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"
-      alt="python"
+      alt="jupyter"
       width="160"
       height="80"
     />
