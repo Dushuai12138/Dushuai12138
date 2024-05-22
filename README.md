@@ -1,5 +1,8 @@
 # 👋 Hi! I'm Shuai Du.
 
+![snake](github-contribution-grid-snake.svg)
+
+
 <!--
 **Dushuai12138/Dushuai12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
