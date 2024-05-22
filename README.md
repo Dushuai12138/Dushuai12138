@@ -30,7 +30,7 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
     <img
       src="	https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"
       alt="python"
-      width="80"
+      width="160"
       height="80"
     />
   </a>
