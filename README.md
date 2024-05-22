@@ -14,7 +14,7 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
     <img
       src="https://jupyter.org/assets/homepage/main-logo.svg"
       alt="jupyter"
-      width="160"
+      width="80"
       height="80"
     />
   </a>
