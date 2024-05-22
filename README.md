@@ -18,6 +18,14 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
       height="80"
     />
   </a>
+  <a href="https://geemap.org/" target="_blank">
+    <img
+      src="https://geemap.org/assets/logo.png"
+      alt="geemap"
+      width="80"
+      height="80"
+    />
+  </a>
 </p>
 
 
