@@ -2,14 +2,6 @@
 A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing).
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="80"
-      height="80"
-    />
-  </a>
   <a href="https://code.earthengine.google.com/" target="_blank">
     <img
       src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/earth-engine-icon.png"
@@ -22,6 +14,22 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
     <img
       src="https://geemap.org/assets/logo.png"
       alt="geemap"
+      width="80"
+      height="80"
+    />
+  </a>
+    <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img
+      src="	https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"
+      alt="python"
       width="80"
       height="80"
     />
