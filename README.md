@@ -6,16 +6,16 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
   <a href="https://code.earthengine.google.com/" target="_blank">
     <img
       src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/earth-engine-icon.png"
       alt="GEE"
-      width="40"
-      height="40"
+      width="80"
+      height="80"
     />
   </a>
 </p>
