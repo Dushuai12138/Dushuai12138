@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Shuai Du.
-A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing).
+A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing). I am good at some tools like python, jupyter notebook, pytorch, GEE and geemap.
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
