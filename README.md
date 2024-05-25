@@ -1,5 +1,6 @@
 # 👋 Hi! I'm Shuai Du.
-A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing). I am good at some tools like python, jupyter notebook, pytorch, GEE and geemap.
+- 🔭 A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing). 
+- 🌱 I am currently learning some tools like python, jupyter, pytorch, GEE and geemap.
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -49,8 +50,6 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
 **Dushuai12138/Dushuai12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-![snake](./assets/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
