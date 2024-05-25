@@ -18,6 +18,14 @@ A Master student who is passionate about DL(Deep Learning), ML(Machine Learning)
       height="80"
     />
   </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img
+      src="https://pytorch.org/assets/images/logo-icon.svg"
+      alt="pytorch"
+      width="80"
+      height="80"
+    />
+  </a>
   <a href="https://code.earthengine.google.com/" target="_blank">
     <img
       src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/earth-engine-icon.png"
