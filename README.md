@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Shuai Du.
 - 🔭 A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing). 
-- 🌱 I am currently learning some tools like python, jupyter, pytorch, GEE and geemap.
+- 🌱 Keep learning tools like python, jupyter, pytorch, GEE and geemap.
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
