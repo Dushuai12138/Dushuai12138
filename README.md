@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Shuai Du.
-- 🔭 A Master student who is passionate about DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing). 
+- 🔭 A Ph.D. student who is passionate about Hydrology, DL(Deep Learning), ML(Machine Learning) and RS(Remote Sensing). 
 - 🌱 Keep learning tools like python, jupyter, pytorch, GEE and geemap.
 
 <p align="left">
